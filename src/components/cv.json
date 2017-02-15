@@ -1,0 +1,124 @@
+{
+  "skills": {
+    "programming": [
+      {
+        "language": "Java",
+        "level": "3"
+      },
+      {
+        "language": "C++",
+        "level": "2"
+      },
+      {
+        "language": "JavaScript",
+        "level": "3"
+      },
+      {
+        "language": "Ruby",
+        "level": "2"
+      },
+      {
+        "language": "Python",
+        "level": "3"
+      },
+      {
+        "language": "PHP",
+        "level": "3"
+      },
+      {
+        "language": "SQL",
+        "level": "3"
+      },
+      {
+        "language": "SASS",
+        "level": "2"
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "React",
+        "level": "3"
+      },
+      {
+        "name": "SpringMVC",
+        "level": "3"
+      },
+      {
+        "name": "Hibernate",
+        "level": "2"
+      }
+    ]
+  },
+  "employment": [
+    {
+      "employer": "Tata Consultancy Services",
+      "role": "Systems Engineer",
+      "location": "Leamington Spa",
+      "dates": "November 2016 - Now",
+      "responsibilities": [
+        "Data Center Hosting",
+        "Unix, Cisco, VMs, ITIL"
+      ]
+    },
+    {
+      "employer": "Betcom Games",
+      "role": "C/C++ Game Developer",
+      "location": "Birmingham",
+      "dates": "June 2016 - November 2016",
+      "responsibilities": [
+        "Developing land-based gaming machines",
+        "Designing and Implementing features",
+        "Refactoring legacy code and testing"
+      ]
+    },
+    {
+      "employer": "The Walt Disney Company",
+      "role": "Java Software Developer Intern",
+      "location": "London",
+      "dates": "June 2014 - July 2015",
+      "responsibilities": [
+        "Full-stack development with ExtJS and SpringMVC",
+        "Automating support processes",
+        "researching enhancements (eg ElasticSearch)"
+      ]
+    }
+  ],
+  "education": {
+    "university": "Aberystwyth University",
+    "degree": "BEng Software Engineering",
+    "grade": "2:1(Hons)",
+    "dates": "September 2012 - July 2016",
+    "courses": [
+      "Java",
+      "C++",
+      "Ruby on Rails",
+      "Javascript",
+      "Machine Learning",
+      "Space Robotics",
+      "Advanced Computer Graphics"
+    ],
+    "dissertation": "Can Machine Learning Be Used To Detect Music Genres?"
+  },
+  "interests": {
+    "sports": [
+      "Badminton",
+      "Cycling",
+      "Yoga"
+    ],
+    "Literature": [
+      "Horror",
+      "Science Fiction",
+      "Historical Fiction"
+    ]
+  },
+  "references": [
+    {
+      "employer": "The Walt Disney Company",
+      "email": "hr.london@disney.com"
+    },
+    {
+      "employer": "Betcom Games",
+      "email": "contact@betcomgames.com"
+    }
+  ]
+}

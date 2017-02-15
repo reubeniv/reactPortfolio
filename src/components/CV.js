@@ -3,11 +3,13 @@
  */
 import React from 'react';
 import AboutMe from './AboutMe';
+import Education from './Education';
 
 const CV = () =>{
     return(
         <div>
             <AboutMe />
+            <Education />
         </div>
     );
 };
